@@ -18,3 +18,8 @@ git push origin main
 `git push origin main`
 
 두번째 클론
+
+클론된 폴더를 최상위로 연 다음에 
+`git add .`
+`git commit -m "추가 메세지`
+`git push origin main`
